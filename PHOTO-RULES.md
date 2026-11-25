@@ -10,3 +10,4 @@ Rules (Steven, 25 Nov 2026):
 5. Yam exception: Yam photos can be reused. Rotate through the whole set before repeating, never use the same photo twice in one week or in two Yam posts in a row, and log every use.
 
 Photo IDs follow social/photo_bank.csv (P/L/Y). Kalaw local gallery files are byte-identical duplicates of the international gallery (for example 13rl6u = 3mzzgj = P00), so log them under the P ID.
+6. Product shots (for example the T8 Sherpa images) are exempt from rules 1 and 2 and may repeat. They still get logged. The rules apply to race photos (Steven, 25 Nov).
