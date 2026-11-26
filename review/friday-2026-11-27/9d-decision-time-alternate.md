@@ -18,10 +18,10 @@ Status: ALTERNATE. Manager's four-slide draft (dragons_woman_steps + dragons_vil
 - Not checked: 9D Metricool (blogId 4780416) queued posts beyond 27 Nov 20:30.
 
 ## Canonical log
-Draft-hold rows added for 1 Dec: dragons_woman_steps (IG Collab), dragons_village_road (FB). Release if not approved. Alternate photos below are NOT logged.
+Draft-hold rows for 1 Dec: dragons_woman_steps (slide 2) and dragons_village_road (slide 3), both in ONE 9D-led IG Collab with Bibly. FB = native share of that post, no standalone uploads. Release if not approved; run a live calendar collision check on approval. Alternate photos below are NOT logged.
 
 ## Alternate slides (9d-decision/)
 IG Collab 4 slides: misty_rock (cover), woman_steps (50 km), statue_ridge (relay legs), finish_champion (CTA). FB Bibly: radar_ridge. FB 9D: village_road.
 
 ## Slot
-Tue 1 Dec: IG 20:30 as one 9D-led Collab, with bibly.run as collaborator (invite needs approval). FB 12:00 on each page, each with a different photo, or a reshare. Sun 29 Nov clashes with T8 last orders (FB 12:00, IG 20:30, plus the Bibly email). Sat 28 Nov clashes with the Angkor launch. Mon 30 Nov has the Kalaw P13 post and the T8 cutoff.
+Tue 1 Dec: IG 20:30 as one 9D-led Collab, with bibly.run as collaborator (invite needs approval). FB: native share of the post on each page, no extra uploads (the FB alternates in 9d-decision/ are retired). Sun 29 Nov clashes with T8 last orders (FB 12:00, IG 20:30, plus the Bibly email). Sat 28 Nov clashes with the Angkor launch. Mon 30 Nov has the Kalaw P13 post and the T8 cutoff. Run a live calendar collision check on approval.
