@@ -71,13 +71,13 @@ date,channel,photo_id,asset,race,owner,item
 2026-12-01,Email (scheduled),,email/lantau70-2027/lt70-ridge-runner.jpg <- organiser (man jumping on rock; not L03),lt70,email,"Lantau 70 - heritage - 1 Dec (Sender rkYVP6, scheduled 10:00 HKT, 1,071 recipients, set up outside Sender/Social) / image"
 2026-12-01,Email (scheduled),,email/lantau70-2027/lt70-sunset-peak-signpost.jpg <- wix 81758a_d3c2dcfd (Pak Kung Au signpost),lt70,email,"Lantau 70 - heritage - 1 Dec (Sender rkYVP6, scheduled 10:00 HKT, 1,071 recipients, set up outside Sender/Social) / image"
 2026-12-01,Email (scheduled),L02,email/lantau70-2027/lt70-podium-phoenix-signs.jpg <- = L02 lt70/1794545759288-g3-podium,lt70,email,"Lantau 70 - heritage - 1 Dec (Sender rkYVP6, scheduled 10:00 HKT, 1,071 recipients, set up outside Sender/Social) / image"
-2026-12-01,Email (scheduled),P41,email/lantau70-2027/lt70-race-morning.jpg <- = P41 0c9a5028.../gallery/1778734153853-c4yugi,lt70,email,"Lantau 70 - heritage - 1 Dec (Sender rkYVP6, scheduled 10:00 HKT, 1,071 recipients, set up outside Sender/Social) / image"
-2026-12-01,LinkedIn,P22,61327c69-ba02-4c4e-b778-524d9429d93e/hero/1777946114846-123aau.jpg,pride2026,social,"FEATURE - DELETED from Metricool 26 Nov by Manager (Steven authorised); photo not used"
+2026-12-01,Email (removed),P41,email/lantau70-2027/lt70-race-morning.jpg <- = P41 0c9a5028.../gallery/1778734153853-c4yugi,lt70,email,"Lantau 70 - heritage - 1 Dec (Sender rkYVP6, scheduled 10:00 HKT, 1,071 recipients, set up outside Sender/Social) / image - REMOVED 26 Nov (replaced by L07)"
+2026-12-01,LinkedIn,P22,61327c69-ba02-4c4e-b778-524d9429d93e/hero/1777946114846-123aau.jpg,pride2026,social,FEATURE - DELETED from Metricool 26 Nov by Manager (Steven authorised); photo not used
 2026-12-02,IG + FB,D05,www.the9dragons.asia/assets/photos/dragons_jungle_climb.jpg,9d2027,social,"TIP (draft v2, 25 Nov)"
 2026-12-04,IG + FB,D13,www.the9dragons.asia/assets/photos/dragons_trail_harbour.jpg,9d2027,social,"WHY_RUNNERS (draft v2, 25 Nov)"
 2026-12-06,Sunday graphic,D08,www.the9dragons.asia/assets/photos/dragons_poles_ridge.jpg,9d2027,social,"ENTRIES OPEN (draft v2, 25 Nov)"
 2026-12-07,IG + FB,Y06,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-runner-1x1.jpg,yam2027,social,"RACE (R) (draft v2, 25 Nov)"
-2026-12-08,LinkedIn,P03,3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282917243-ah7mh6.jpg,kalaw2027,social,"STORY - DELETED from Metricool 26 Nov by Manager (Steven authorised); photo not used"
+2026-12-08,LinkedIn,P03,3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282917243-ah7mh6.jpg,kalaw2027,social,STORY - DELETED from Metricool 26 Nov by Manager (Steven authorised); photo not used
 2026-12-09,IG + FB,D06,www.the9dragons.asia/assets/photos/dragons_lakeside_path.jpg,9d2027,social,"STAT (draft v2, 25 Nov)"
 2026-12-10,Email (draft),,email/dec-2026/9d-finish-celebrate.jpg <- the9dragons.asia dragons_finish_celebrate,9d,email,9D selling fast / two-up
 2026-12-10,Email (draft),,email/dec-2026/9d-poles-climb.jpg <- the9dragons.asia pain_poles,9d,email,9D selling fast / two-up
@@ -97,7 +97,7 @@ date,channel,photo_id,asset,race,owner,item
 2026-12-20,Sunday graphic,Y07,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757351662-h7m810.jpg,yam2027,social,"ENTRIES OPEN (draft v2, 25 Nov)"
 2026-12-21,IG + FB,Y08,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757419617-lzeewh.jpg,yam2027,social,"PHOTO (draft v2, 25 Nov)"
 2026-12-22,Email (draft),,email/dec-2026/9d-summit-arms.jpg <- the9dragons.asia dragons_summit_arms,9d,email,All-races newsletter / card
-2026-12-22,Email (draft),,email/dec-2026/lt70-grass-climb.jpg <- events.lantaubasecamp.com jackie-trail-lt70_orig.jpg,lt70,email,All-races newsletter / card
+2026-12-01,Email (scheduled),L07,email/dec-2026/lt70-grass-climb.jpg <- events.lantaubasecamp.com jackie-trail-lt70_orig.jpg,lt70,email,Lantau 70 heritage (rkYVP6) / replaces P41 race-morning (8-week clash) - pending Manager UI edit + Sender verify
 2026-12-22,Email (draft),P02,email/dec-2026/kalaw-headlamps.jpg <- 3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282910320-5x0mxg.jpg,kalaw,email,All-races newsletter / card
 2026-12-22,Email (draft),P07,email/dec-2026/kalaw-pines-view-hero.jpg <- 3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282969640-75ds60.jpg,kalaw,email,All-races newsletter / hero
 2026-12-22,Email (draft),Y03,email/dec-2026/yam-ger-camp.jpg <- email/yam-2027/yam-ger-camp-night.jpg,yam2027,email,All-races newsletter / card
@@ -137,3 +137,4 @@ date,channel,photo_id,asset,race,owner,item
 2027-02-16,LinkedIn,P33,db06380b-cca2-4cf3-a09b-4dc8bf467a63/gallery/1780987736625-t7a8sm.jpg,9d2027,social,"STORY (draft v2, 25 Nov)"
 2027-02-23,LinkedIn,P24,db06380b-cca2-4cf3-a09b-4dc8bf467a63/gallery/1780987671248-euuowj.jpg,9d2027,social,"STORY (draft v2, 25 Nov)"
 2027-03-02,LinkedIn,Y10,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757439386-x2ftry.jpg,yam2027,social,"RACE (draft v2, 25 Nov)"
+2026-12-22,Email (draft),,email/dec-2026/lt70-course-map.jpg <- wix 81758a_8cd5b2b4 (TOPO LT70 course map graphic; not a race photo),lt70,email,All-races newsletter / card (replaces L07)
