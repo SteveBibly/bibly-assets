@@ -15,6 +15,38 @@ Target: Sat 28 Nov 2026 (Steven). Nothing is scheduled, posted or invited.
 | LinkedIn | none | the no organiser-acquisition rule applies; skip |
 If the page goes live after 12:00, move FB to 20:30 alongside IG. It's an extra post outside the Mon/Wed/Fri rhythm (Mon 30 Nov is Kalaw). No collaborator or tag unless SDPO confirms it.
 
+
+## DEFAULT (27 Nov, Manager): Bibly-owned type-only artwork, no rights needed
+This is the default for Sat 28 Nov. It uses no photos, no photographer credit, no SDPO logo or brand marks, and no tags or collaborators. It's all Bibly brand type: Unbounded and Inter, with the navy, coral and honey palette used on the Sunday graphics. The SDPO photo carousel below stays as an option only if SDPO confirms rights, and nobody is contacting SDPO.
+
+Carousel, 3 slides, 1080x1350:
+1. angkor-type/angkor-type-1.png: "Ultra-Trail d'Angkor. Entries open.", 吳哥越野賽 而家接受報名, 23 Jan 2027, entries close 10 Jan
+2. angkor-type/angkor-type-2.png: "Pick your Angkor distance." with 100, 64, 42, 32, 21.1 and 10 km, plus Walk & Hike and Kids 4 km
+3. angkor-type/angkor-type-3.png: "Start line: Angkor.", 1 月 10 日截止報名, bibly.run/events/angkor-trail-2027
+Preview: angkor-type/angkor-type-preview.jpg
+Slide 1 also works on its own as a single image.
+
+Captions: use the EN, Cantonese and Simplified Chinese captions below, but drop the "Photos: SDPO" credit lines. Keep "Organised by SDPO" / 主辦：SDPO as plain text with no tag.
+Release is unchanged: FB 12:00 and IG 20:30, only after the page and checkout are verified live and Steven approves.
+
+## FB text-only fallback (if Steven prefers no artwork)
+Ultra-Trail d'Angkor is now taking entries on Bibly.
+
+Saturday 23 January 2027, Angkor Archaeological Park, Siem Reap. Routes on dirt tracks, sandy paths and rice-field lanes past the temples, finishing at the Terrace of the Elephants in Angkor Thom.
+
+UTA 100 km · Bayon Trail 64 km · Marathon Trail 42 km · Jungle Trail 32 km · Naga Trail 21.1 km · Elephant Trail 10 km · Walk & Hike 21.1 / 10 km · Kids 4 km
+
+Entries close 10 January.
+https://bibly.run/events/angkor-trail-2027?utm_source=facebook&utm_medium=social&utm_campaign=angkor_launch
+
+吳哥越野賽而家可以喺 Bibly 報名。2027 年 1 月 23 日（星期六），暹粒吳哥考古公園，4 至 100 公里。1 月 10 日截止報名。
+
+吴哥越野赛现已在 Bibly 开放报名。2027 年 1 月 23 日（星期六），暹粒吴哥考古公园，4 至 100 公里。1 月 10 日截止报名。
+
+Organised by SDPO.
+(Facebook shows a link preview card pulled from the race page. Check that the preview image is acceptable before posting; if not, remove the preview.)
+
+## OPTION, only if SDPO confirms rights: photo carousel
 ## Creative (4:5, 1080x1350, real SDPO race photos, no text overlay)
 1. angkor/angkor-launch-1-temple-gate.jpg
 2. angkor/angkor-launch-2-start-line.jpg
