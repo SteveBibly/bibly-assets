@@ -15,6 +15,46 @@ Owner: BIBLY Social Media Manager. Email side is owned by BIBLY Sender (RaceBase
 - Not entered: add at checkout. 25 km is sold out (waitlist), so new entries are 50 km, 50 Miles, 50/50, relay and kids.
 - Registration closes 30 Jan 2027, 23:59 HKT. After 30 Nov the product comes off the registration site (Steven, Manager thread).
 
+## Revised 27 Nov (Steven via Manager): dragon-print Sherpa focus, 2x2
+One single-image post per channel: a 2x2 grid (1080x1350, 4:5) built from the product images on the live 9 Dragons registration page (bibly.run/events/the-9-dragons-c387e2, add-on listing): men's Sherpa, women's Sherpa, a crop of the men's shorts detail, and the dragon print. This replaces the earlier 1x3 carousel.
+- Grid: t8/t8-sherpa-2x2-4x5.jpg
+- Preview with caption: t8/t8-ig-preview.jpg
+- Excluded: the add-on banner showing a runner under a dragon in the sky, because it looks AI-generated (no AI images rule).
+- Flag for Steven: the men's and women's model shots on the registration page may be generated mockups rather than photos. Please confirm they are real T8 product photos before posting. Product shots are exempt from rotation.
+- Overlap: the dragon print tile also appears in the Bibly email body on 29 Nov (Sender). It's a product shot, so it's allowed; it's noted here so you know.
+
+| Brand | Channel | Time (Sun 29 Nov HKT) |
+|---|---|---|
+| Bibly Run | Facebook | 12:00 |
+| Bibly Run | Instagram | 20:30 |
+| The 9 Dragons (needs approval) | Facebook 12:30, Instagram 19:00 | same grid |
+
+No tags, mentions, collaborators or prices. No DM ordering. No cut-off hour until Steven confirms it. Gated on the technical end date being fixed to Monday.
+
+### Caption (Bibly IG)
+Last orders for the dragon-print Sherpa shorts close on Monday 30 November.
+
+The 9 Dragons x T8 Sherpa: Hong Kong's mountains, skyline and dragons in grey and red on black, in women's and men's cuts. Made to order, race edition only, not sold in shops. Ultra Shorts, Iced Tees and Trail Tanks are on the same add-on list.
+
+Already entered? Log in to your Bibly profile, open My races and tap Buy add-ons.
+Not entered yet? Add them at checkout. Link in bio.
+
+9 Dragons x T8 龍紋 Sherpa 短褲，11 月 30 日（星期一）截單。
+
+黑底配灰色同紅色嘅香港山脈、天際線同龍，分男裝及女裝剪裁。只限訂造，只供參賽者購買，門市冇得賣。同一個加購清單仲有 Ultra 短褲、Iced Tee 同 Trail Tank。
+
+已報名？登入 Bibly 帳戶，去 My races，撳 Buy add-ons。
+未報名？報名時一齊加購。連結喺 bio。
+
+#The9Dragons #T8 #TrailRunningHK #HongKongTrails #Bibly
+
+FB: same text. Replace "Link in bio." with the two UTM links below and "連結喺 bio。" with "連結見上。"
+- https://bibly.run/account?tab=races&utm_source=facebook&utm_medium=social&utm_campaign=nine_dragons_t8_last_orders
+- https://bibly.run/events/the-9-dragons-c387e2?utm_source=facebook&utm_medium=social&utm_campaign=nine_dragons_t8_last_orders
+
+9D version (if approved): same grid. Open with "Last call for the dragons on your shorts." and keep the "Pain is inevitable" line from the earlier draft.
+
+## Earlier version (superseded)
 ## Proposed posts (Sunday 29 Nov, HKT)
 | Brand | Channel | Time | Assets |
 |---|---|---|---|
