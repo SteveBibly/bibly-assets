@@ -5,7 +5,7 @@ Status: drafts for the Friday 27 Nov overview. No external contact, posts, sched
 ## 1. Angkor Trail 2027: verified facts
 | Fact | Value | Source |
 |---|---|---|
-| Live status | Hidden. bibly.run/events/angkor-trail-2027 returns 404 (checked 26 Nov). Registration "coming soon", waiting for Germain's "go" (review link and terms sent 25 Nov 10:11, no reply found) | live fetch; Manager thread 26 Nov; PR #369 ("stays hidden and not open until Steven says go") |
+| Live status | Hidden (still 404 on 27 Nov morning; JC authorised opening 27 Nov). bibly.run/events/angkor-trail-2027 returns 404 (checked 26 Nov). Registration "coming soon", waiting for Germain's "go" (review link and terms sent 25 Nov 10:11, no reply found) | live fetch; Manager thread 26 Nov; PR #369 ("stays hidden and not open until Steven says go") |
 | Note | The knowledge page says it went public on 25 Nov. The live 404 and PR #369 say otherwise. Treat it as hidden. | |
 | Organiser | SDPO (Jean Claude Le Cornec). Germain Pichenot handles registration and technical matters | knowledge page |
 | Race date | Sat 23 Jan 2027, Angkor Archaeological Park, finish at Terrace of the Elephants. Closing gala Sun 24 Jan | biblyevents migration 20261112010000 |
@@ -15,7 +15,11 @@ Status: drafts for the Friday 27 Nov overview. No external contact, posts, sched
 | Photos | SDPO's own photos (hero-pre-rup, temple-gate, start-line) were used on the demo page. Rights for Bibly social use are NOT confirmed | migration comment |
 | Channel | Non-exclusive. SDPO's own site also shows "Registration OPEN" | ultratrail-angkor.com |
 
-Gates before any Angkor post: (1) Germain's go, (2) live entry check on bibly.run, (3) written photo and handle permission from SDPO, (4) Steven's approval. RACE posts stop at 10 Jan; no posts about the race after 23 Jan.
+Update 27 Nov (Manager): Jean-Claude Le Cornec has directly authorised publication and opening on Bibly, plus general non-exclusive promotion by each platform. He wants reach in Hong Kong and mainland China. Germain's go is no longer the gate. The event page still returned 404 on the morning of 27 Nov.
+
+Remaining gates before any Angkor post: (1) race page and checkout live on bibly.run (entry check the day before), (2) specific creative rights: which SDPO photos and logo Bibly may use on social, and whether @sdpo_trails_dream may be tagged or invited (general promotion consent does not cover these), (3) Steven's approval. No invites or publication until all three are met.
+
+Audience note: because SDPO wants HK and mainland reach, add a Simplified Chinese version (below) for FB and for any later REDnote use, alongside the Cantonese caption on IG/FB. RACE posts stop at 10 Jan; no posts about the race after 23 Jan.
 
 ## 2. Angkor launch carousel (HOLD)
 Format: 4:5 carousel, 5 slides, SDPO photos only once rights are cleared. Slides: 1 temple gate / 2 start line / 3 Pre Rup / 4 distance list (text card on a real photo) / 5 "Entries open on Bibly".
@@ -42,6 +46,16 @@ ZH caption (Cantonese, per channel rule):
 
 FB: same, link https://bibly.run/events/angkor-trail-2027?utm_source=facebook&utm_medium=social&utm_campaign=angkor_launch
 LinkedIn (company voice, optional): "We're glad to welcome SDPO and the Ultra-Trail d'Angkor to Bibly ..." Steven to decide; would breach the "no organiser-acquisition posts" rule if framed as a win, so keep it runner-facing.
+
+Simplified Chinese caption (for mainland audiences):
+吴哥越野赛（Ultra-Trail d'Angkor）现已在 Bibly 开放报名。
+
+第十届赛事将于 2027 年 1 月 23 日（星期六）在吴哥考古公园举行，赛道穿越土路、沙径和稻田小路，途经塔松寺、Phnom Bok、班迭色玛寺、比粒寺和达内寺，终点设在吴哥城斗象台。
+
+距离从 4 公里到 100 公里，包括 UTA 100、Bayon Trail 64 公里、Marathon Trail 42 公里、Jungle Trail 32 公里和 Naga Trail 21.1 公里，另设不计时徒步组。
+
+1 月 10 日截止报名。链接见主页。
+主办：SDPO。图片：SDPO。
 
 ## 3. Angkor evergreen carousel (after launch, before 10 Jan)
 Theme: "Which Angkor distance is yours?" 4 slides, one per distance group.
