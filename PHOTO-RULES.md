@@ -7,7 +7,7 @@ Rules (Steven, 25 Nov 2026):
 2. Leave at least 8 weeks before a photo is reused anywhere, and don't use the same hero twice in a row for one race.
 3. Within a month, vary each race's shots: a different runner, a different scene and a gender mix.
 4. If a race has no clear photo left, flag it to the Manager. Don't recycle. Use real organiser photos only, with credits.
-5. Yam exception: Yam photos can be reused. Rotate through the whole set before repeating, never use the same photo twice in one week or in two Yam posts in a row, and log every use.
+5. Yam exception: Yam photos can be reused. Rotate through the whole set before repeating, never use the same photo twice in one week or in two Yam posts in a row, and log every use. The 8-week gap (rule 2) still applies to each Yam image across all channels, and alias IDs count as the same image (Y08=Y05, Y09=Y03, Y10=Y02). Y01 is a designed slide with prices, not usable. If no Yam image is clear, use a non-Yam photo (Manager, 26 Nov).
 
 Photo IDs follow social/photo_bank.csv (P/L/Y). Kalaw local gallery files are byte-identical duplicates of the international gallery (for example 13rl6u = 3mzzgj = P00), so log them under the P ID.
 6. Product shots (for example the T8 Sherpa images) are exempt from rules 1 and 2 and may repeat. They still get logged. The rules apply to race photos (Steven, 25 Nov).

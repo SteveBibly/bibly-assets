@@ -76,7 +76,7 @@ date,channel,photo_id,asset,race,owner,item
 2026-12-02,IG + FB,D05,www.the9dragons.asia/assets/photos/dragons_jungle_climb.jpg,9d2027,social,"TIP (draft v2, 25 Nov)"
 2026-12-04,IG + FB,D13,www.the9dragons.asia/assets/photos/dragons_trail_harbour.jpg,9d2027,social,"WHY_RUNNERS (draft v2, 25 Nov)"
 2026-12-06,Sunday graphic,D08,www.the9dragons.asia/assets/photos/dragons_poles_ridge.jpg,9d2027,social,"ENTRIES OPEN (draft v2, 25 Nov)"
-2026-12-07,IG + FB,Y06,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-runner-1x1.jpg,yam2027,social,"RACE (R) (draft v2, 25 Nov)"
+2026-12-07,IG + FB,Y02,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-granite-4x5.jpg,yam2027,social,"RACE (R) (draft v3, 26 Nov: Yam 8-week fix)"
 2026-12-08,LinkedIn,P03,3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282917243-ah7mh6.jpg,kalaw2027,social,STORY - DELETED from Metricool 26 Nov by Manager (Steven authorised); photo not used
 2026-12-09,IG + FB,D06,www.the9dragons.asia/assets/photos/dragons_lakeside_path.jpg,9d2027,social,"STAT (draft v2, 25 Nov)"
 2026-12-10,Email (draft),,email/dec-2026/9d-finish-celebrate.jpg <- the9dragons.asia dragons_finish_celebrate,9d,email,9D selling fast / two-up
@@ -94,8 +94,8 @@ date,channel,photo_id,asset,race,owner,item
 2026-12-17,Email (draft),P27,email/dec-2026/9d-shoes-closeup.jpg <- db06380b-cca2-4cf3-a09b-4dc8bf467a63/gallery/1780987683412-ds3v8g.jpg,9d,email,Prices rise 1 Jan / card
 2026-12-17,Email (draft),Y04,email/dec-2026/yam-herd-aerial.jpg <- email/yam-2027/yam-steppe-herd.jpg,yam2027,email,Prices rise 1 Jan / card
 2026-12-18,IG + FB,L06,events.lantaubasecamp.com/uploads/1/1/2/1/11218159/12742390-989398364468222-4642775178400710297-n_orig.jpg,lt70,social,"SHOUTOUT (draft v2, 25 Nov)"
-2026-12-20,Sunday graphic,Y07,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757351662-h7m810.jpg,yam2027,social,"ENTRIES OPEN (draft v2, 25 Nov)"
-2026-12-21,IG + FB,Y08,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757419617-lzeewh.jpg,yam2027,social,"PHOTO (draft v2, 25 Nov)"
+2026-12-20,Sunday graphic,D10,www.the9dragons.asia/assets/photos/dragons_rock_climb_mist.jpg,9d2027,social,"ENTRIES OPEN (draft v3, 26 Nov: Yam 8-week fix)"
+2026-12-21,IG + FB,Y07,cnbwuinysfckfqvxricl.supabase.co/storage/v1/object/public/event-media/d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757351662-h7m810.jpg,yam2027,social,"PHOTO (draft v3, 26 Nov: Yam 8-week fix)"
 2026-12-22,Email (draft),,email/dec-2026/9d-summit-arms.jpg <- the9dragons.asia dragons_summit_arms,9d,email,All-races newsletter / card
 2026-12-01,Email (scheduled),L07,email/dec-2026/lt70-grass-climb.jpg <- events.lantaubasecamp.com jackie-trail-lt70_orig.jpg,lt70,email,Lantau 70 heritage (rkYVP6) / replaces P41 race-morning (8-week clash) - Manager UI edit 26 Nov 09:15:47, verified by API diff (3 strings only), 1,166 recipients
 2026-12-22,Email (draft),P02,email/dec-2026/kalaw-headlamps.jpg <- 3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282910320-5x0mxg.jpg,kalaw,email,All-races newsletter / card
@@ -122,7 +122,7 @@ date,channel,photo_id,asset,race,owner,item
 2027-01-12,LinkedIn,D11,www.the9dragons.asia/assets/photos/dragons_rock_scramble.jpg,9d2027,social,"RACE (draft v2, 25 Nov)"
 2027-01-13,IG + FB,P05,3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282938045-8mws1d.jpg,kalaw2027,social,"RACE (R) (draft v2, 25 Nov)"
 2027-01-13,IG + FB,P08,3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786282989416-dgk40k.jpg,kalaw2027,social,"RACE (R) (draft v2, 25 Nov)"
-2027-01-15,IG + FB,Y02,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-granite-4x5.jpg,yam2027,social,"TIP (draft v2, 25 Nov)"
+2027-01-15,IG + FB,Y05,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-river-1x1.jpg,yam2027,social,"TIP (draft v3, 26 Nov: Yam 8-week fix)"
 2027-01-17,Sunday graphic,D18,www.the9dragons.asia/assets/photos/legend_ridge.jpg,9d2027,social,"ENTRIES OPEN (draft v2, 25 Nov)"
 2027-01-18,IG + FB,L05,events.lantaubasecamp.com/uploads/1/1/2/1/11218159/anders-lt70-14_orig.jpg,lt70,social,"PHOTO (draft v2, 25 Nov)"
 2027-01-19,LinkedIn,P39,db06380b-cca2-4cf3-a09b-4dc8bf467a63/hero/1780987656099-h4egb1.jpg,9d2027,social,"RACE (draft v2, 25 Nov)"
@@ -130,11 +130,11 @@ date,channel,photo_id,asset,race,owner,item
 2027-01-22,IG + FB,P23,db06380b-cca2-4cf3-a09b-4dc8bf467a63/gallery/1780987665949-aevzrb.jpg,9d2027,social,"RACE (R) (draft v2, 25 Nov)"
 2027-01-22,IG + FB,D07,www.the9dragons.asia/assets/photos/dragons_misty_woman.jpg,9d2027,social,"RACE (R) (draft v2, 25 Nov)"
 2027-01-22,IG + FB,D14,www.the9dragons.asia/assets/photos/dragons_winding_trail.jpg,9d2027,social,"RACE (R) (draft v2, 25 Nov)"
-2027-01-24,Sunday graphic,Y07,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757351662-h7m810.jpg,yam2027,social,"ENTRIES OPEN (draft v2, 25 Nov)"
-2027-01-26,LinkedIn,Y09,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757429139-kx7gvk.jpg,yam2027,social,"RACE (draft v2, 25 Nov)"
-2027-02-02,LinkedIn,Y08,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757419617-lzeewh.jpg,yam2027,social,"FEATURE (draft v2, 25 Nov)"
+2027-01-24,Sunday graphic,D21,www.the9dragons.asia/assets/photos/ultra_ridge_dawn.jpg,9d2027,social,"ENTRIES OPEN (draft v3, 26 Nov: Yam 8-week fix)"
+2027-01-26,LinkedIn,Y06,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-runner-1x1.jpg,yam2027,social,"RACE (draft v3, 26 Nov: Yam 8-week fix)"
+2027-02-02,LinkedIn,D03,www.the9dragons.asia/assets/photos/dragons_fun_climb.jpg,9d2027,social,"FEATURE (draft v3, 26 Nov: Yam 8-week fix)"
 2027-02-09,LinkedIn,P13,3baf2580-d836-4a40-9dd0-c573573df3ec/gallery/1786283591610-kp82fy.jpg,kalaw2027,social,"STORY (draft v2, 25 Nov)"
 2027-02-16,LinkedIn,P33,db06380b-cca2-4cf3-a09b-4dc8bf467a63/gallery/1780987736625-t7a8sm.jpg,9d2027,social,"STORY (draft v2, 25 Nov)"
 2027-02-23,LinkedIn,P24,db06380b-cca2-4cf3-a09b-4dc8bf467a63/gallery/1780987671248-euuowj.jpg,9d2027,social,"STORY (draft v2, 25 Nov)"
-2027-03-02,LinkedIn,Y10,d333505e-4ba6-4ac0-93c9-5dc6ea39e90a/gallery/1790757439386-x2ftry.jpg,yam2027,social,"RACE (draft v2, 25 Nov)"
+2027-03-02,LinkedIn,Y04,cdn.jsdelivr.net/gh/SteveBibly/bibly-assets@6a037dd93fd1bba80566efb58029a3cf58382eb9/social/yam-2027/yam-herd-4x5.jpg,yam2027,social,"RACE (draft v3, 26 Nov: Yam 8-week fix)"
 2026-12-22,Email (draft),,email/dec-2026/lt70-course-map.jpg <- wix 81758a_8cd5b2b4 (TOPO LT70 course map graphic; not a race photo),lt70,email,All-races newsletter / card (replaces L07)
