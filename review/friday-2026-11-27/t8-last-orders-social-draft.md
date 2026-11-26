@@ -18,12 +18,12 @@ Owner: BIBLY Social Media Manager. Email side is owned by BIBLY Sender (RaceBase
 ## Proposed posts (Sunday 29 Nov, HKT)
 | Brand | Channel | Time | Assets |
 |---|---|---|---|
-| Bibly Run | Instagram feed, carousel 4:5 | 20:30 | t8-sherpa-women.jpg, t8-sherpa-men.jpg, plus 1-2 range mockups from Sender's t8-range/ folder (not the email hero) |
+| Bibly Run | Instagram feed, carousel 4:5 | 20:30 | t8-sherpa-women.jpg, t8-sherpa-men.jpg, t8-range/iced-tee-men.jpg |
 | Bibly Run | Facebook | 12:00 | same 2 images |
-| The 9 Dragons (needs approval) | Instagram feed | 19:00 | t8-sherpa-print.jpg cropped 4:5 + women/men |
+| The 9 Dragons (needs approval) | Instagram feed | 19:00 | t8-range/iced-tee-men.jpg first, then t8-sherpa-men.jpg, t8-sherpa-women.jpg |
 | The 9 Dragons (needs approval) | Facebook | 12:30 | same |
 
-Image choice: product shots only (exempt from rotation, logged). The hero image t8-sherpa-hero.jpg stays with Sender's emails so the same hero does not appear in an inbox and a feed on the same day. Women/men shots are 512x640: low resolution for IG; ask T8/Steven for higher-resolution files if available. No cleared photos of runners wearing the kit are on record.
+Image choice (agreed with Sender 26 Nov): emails use t8-sherpa-hero (Bibly 29 Nov hero), t8-sherpa-print (RaceBase 28 Nov hero, Bibly body) and t8-range ultra-shorts, iced-tee-women, trail-tank. Social uses only images the emails don't use. Product shots only (exempt from rotation, logged). The hero image t8-sherpa-hero.jpg stays with Sender's emails so the same hero does not appear in an inbox and a feed on the same day. Women/men shots are 512x640: low resolution for IG; ask T8/Steven for higher-resolution files if available. No cleared photos of runners wearing the kit are on record.
 
 No tags, no mentions, no collaborators, no prices, no DM ordering, no cut-off hour until confirmed.
 
